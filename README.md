@@ -1,5 +1,6 @@
 # English_to_Arabic_Instructors
-In this repository the process of converting the English voice to Arabic voice is explained.
+In this repository the process of converting the English voice to Arabic voice is explained. This is an successfull effort to combine already avilable modle like Whipers with
+klaam to first understand the English language from voice convert it to the Arabic language using translator and finally converting the Arabic text into Arabic sounds. 
 # Sample 
 Original English voice
 https://drive.google.com/file/d/171-Ml9yEA66ldu3ReNS5vf2IYUT4vhQ1/view?usp=sharing
@@ -37,3 +38,4 @@ klaam
 
 ##  Cloned Githubs
 https://github.com/ARBML/klaam
+https://github.com/openai/whisper.git
