@@ -11,35 +11,24 @@ https://drive.google.com/file/d/1-JQrzQpoXVOSg6k677vojPH5boYjhZJB/view?usp=shari
 # Requierements 
 lingua-language-detector
 
-
 librosa
-
 
 jiwer
 
-
 ffmpeg-python
-
 
 transformers
 
-
 datasets
-
 
 torchaudio
 
-
 arabic_pronounce
-
 
 pypinyin
 
-
 Unidecode
 
-
 codernitydb3
-
 
 mishkal
